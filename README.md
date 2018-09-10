@@ -15,4 +15,4 @@ This script can be used to crawl on Google API to grab the fonts and generate a 
 ## Support
 
 - Please feel free to contact me via this email if you have any questions: kenneth@k-sky.hk
-Or visit our company website: http://k-sky.hk
+- Or visit our company website: http://k-sky.hk
